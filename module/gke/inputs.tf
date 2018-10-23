@@ -1,0 +1,9 @@
+variable "project" {}
+variable "region" {}
+variable "zones" {}
+variable "name" {}
+variable "min_master_version" {}
+variable "master_authorized_cidr" {}
+variable "machine_type" {}
+variable "autoscaling_min_node_count" {}
+variable "autoscaling_max_node_count" {}
